@@ -20,6 +20,8 @@
 
 ## 🎵 My Playlist
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/playlist?list=PLSekIeKBes2Lrg9Hv5K-kCCrwgdVakPUZ)](https://www.youtube.com/playlist?list=PLSekIeKBes2Lrg9Hv5K-kCCrwgdVakPUZ)
+<a href="https://www.youtube.com/playlist?list=PLSekIeKBes2Lrg9Hv5K-kCCrwgdVakPUZ" target="_blank">
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/playlist?list=PLSekIeKBes2Lrg9Hv5K-kCCrwgdVakPUZ)](https://www.youtube.com/playlist?list=PLSekIeKBes2Lrg9Hv5K-kCCrwgdVakPUZ)
+</a>
 
 </div>
