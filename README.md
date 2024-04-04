@@ -6,17 +6,15 @@
 
 ---
 
-### 🔝 Top Contributed
 ### 🏆 Top Contributed
 ![](https://github-contributor-stats.vercel.app/api?username=jjggu97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jjggu97&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jjggu97&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjggu97&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contact
-## 📱 Contact
+## 📱 Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wjdwlsrb_03__) 
 
 ## 🎵 My Playlist
