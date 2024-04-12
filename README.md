@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjggu97&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📱 Contact me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wjdwlsrb_03__) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wjdwlsrb_) 
 
 ## 🎵 My Playlist
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/playlist?list=PLSekIeKBes2Lrg9Hv5K-kCCrwgdVakPUZ)](https://www.youtube.com/playlist?list=PLSekIeKBes2Lrg9Hv5K-kCCrwgdVakPUZ)
